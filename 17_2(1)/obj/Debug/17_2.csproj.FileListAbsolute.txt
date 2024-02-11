@@ -1,0 +1,8 @@
+D:\115\17_2\bin\Debug\17_2.exe.config
+D:\115\17_2\bin\Debug\17_2.exe
+D:\115\17_2\bin\Debug\17_2.pdb
+D:\115\17_2\obj\Debug\17_2.csproj.AssemblyReference.cache
+D:\115\17_2\obj\Debug\17_2.csproj.SuggestedBindingRedirects.cache
+D:\115\17_2\obj\Debug\17_2.csproj.CoreCompileInputs.cache
+D:\115\17_2\obj\Debug\17_2.exe
+D:\115\17_2\obj\Debug\17_2.pdb
